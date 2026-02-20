@@ -25,3 +25,4 @@ displayWeatherReport() — Formats all extracted data into a structured Unicode 
 
 describeWeatherCode() — maps WMO integer codes (0–99) to human-readable labels like "Partly cloudy ⛅" or "Thunderstorm ⛈"
 describeWindDirection() — converts wind direction in degrees (0–360) to a 16-point compass label like "NW (315°)"
+<img width="1282" height="709" alt="Image" src="https://github.com/user-attachments/assets/df1ad96b-b3ab-4ca8-86e7-49dc8025063f" />
